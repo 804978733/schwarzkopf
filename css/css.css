@@ -1,0 +1,19 @@
+@charset "utf-8";
+html{ font:normal 62.5%/2.3em "微软雅黑",Arial,"宋体"; height:100%; overflow:hidden;scroll-behavior:smooth; -webkit-overflow-scrolling : touch; }
+body{ padding:0px; margin:0px auto; font-size:1.2rem; color:#414446; width:100%; min-width:320px; height:100%; zoom:1; background:#000; position:relative; overflow:hidden; moz-user-select:-moz-none; -moz-user-select:none; -o-user-select:none; -khtml-user-select:none; -webkit-user-select:none; -ms-user-select:none; user-select:none;scroll-behavior:smooth; -webkit-overflow-scrolling : touch; }
+ul,li,form, dl,dt,dd, div{ padding: 0px; margin: 0px;}
+select,input,textarea{ border-radius:0; -webkit-border-radius:0; color:#414446;}
+input:focus { outline: none;}
+input,button,select,textarea{outline:none; }
+textarea{resize:none; }
+textarea,input,select { background:none; border:none; margin:0; padding:0;}
+article,aside,footer,header,hgroup,nav,section,figure,figcaption{ display: block;} 
+figure,figcaption{ margin:0px; padding:0px;}
+audio,canvas,progress,video { display: inline-block; vertical-align: baseline;}
+a { text-decoration:none; noline:-webkit-tap-highlight-color:rgba(0,0,0,0);}
+a:focus {outline:none; -moz-outline:none;}
+a:hover{ text-decoration:none;}
+.clear{ clear:both; height:0px; overflow:hidden;}
+.main { width:100%; height: 100%; margin: 0 auto; overflow: scroll; padding: 0;-webkit-overflow-scrolling : touch;}
+.main div { width:100%; margin: 0 auto; padding: 0;}
+.main div img {border:none; vertical-align:middle; width:100%; height:auto;-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; outline:none;}
